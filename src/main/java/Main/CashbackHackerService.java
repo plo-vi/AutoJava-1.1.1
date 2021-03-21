@@ -1,6 +1,6 @@
 package Main;
 
-public class CachbackHacker {
+public class CashbackHackerService {
     private final int boundary = 1000;
 
     public int remain(int amount) {
